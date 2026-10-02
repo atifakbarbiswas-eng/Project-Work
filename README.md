@@ -14,12 +14,3 @@ This project is mainly based on the Geant4 tutorials by **Physics Matters** on Y
 - Geant4 visualization
 - Macro files for running the simulation
 
-## How to run
-
-Create a build directory:
-
-```bash
-mkdir build
-cd build
-cmake ..
-make -j
